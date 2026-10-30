@@ -24,3 +24,19 @@
 
 
 ![A & E Dashboard](a&e_dashboard.png)
+
+
+
+# Project 2
+
+**Title:** [Employee Workforce and Salary Analysis with SQL](./employee_db.sql)
+
+**Tools Used:** Microsoft SQL Server, including joins, aggregate functions, filters, string and date functions, a CTE and window functions.
+
+**Project Description:** This project uses Microsoft SQL Server to explore a relational HR dataset containing employee records and position details. I joined the tables by employee ID and wrote queries to answer practical workforce questions, including how employees are distributed across departments and gender groups, which employees hold managerial roles, and how salaries vary across the records. The queries use filtering, aggregation, sorting, string functions and ranking to make the data easier to examine and report which shows how SQL can help organise employee information and support routine HR analysis.
+
+**Key findings:**
+
+- Joining the tables by employee ID brings employee, department, role and salary information together for analysis.
+- Department and gender counts provide ways to examine workforce composition, while date filters allow comparisons across selected employee groups.
+- Salary filters and ranking queries help identify employees within a chosen pay band and those at the upper and lower ends of the salary distribution.
