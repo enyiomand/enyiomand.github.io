@@ -19,3 +19,5 @@
 - **High activity and high wait counts overlap:** Four of the five providers with the highest attendance volumes also appear among the five with the most admission waits over 12 hours. These are absolute counts, so comparing wait rates against provider activity would be needed to assess relative burden.
 
 **Dashboard Overview:** KPI cards summarize overall activity, four-hour performance and waits over 12 hours. Regional bar charts compare all-department and major A&E performance, while a doughnut chart shows the regional share of attendances. Provider charts highlight the highest attendance volumes, the lowest major A&E four-hour rates and the largest counts of admission waits over 12 hours. Month and region slicers let users filter the dashboard. The results describe the selected two-month period and are not adjusted for differences in provider size, service mix or patient complexity.
+
+![A & E Dashboard](a&e_dashboard.png)
