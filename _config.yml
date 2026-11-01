@@ -1,18 +1,17 @@
+theme: jekyll-theme-chirpy
+
 title: Enyioma Nwadibia
+tagline: Data Analyst
 description: >-
   A data analyst with 2 years' experience in Excel for reporting and automation,
   SQL for data manipulation and exploration, and Power BI for data visualisation.
 
-remote_theme: jekyll/minima@d4d779a
+url: "https://enyiomand.github.io"
+baseurl: ""
 
-plugins:
-  - jekyll-remote-theme
-  - jekyll-feed
-  - jekyll-seo-tag
+github:
+  username: enyiomand
 
-minima:
-  skin: auto
-  social_links:
-    - title: GitHub
-      icon: github
-      url: "https://github.com/enyiomand"
+theme_mode:
+
+avatar: /assets/img/data-analyst-logo.jpg
