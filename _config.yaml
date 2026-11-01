@@ -1,6 +1,13 @@
 title: Enyioma Nwadibia
 logo: data-analyst-logo.jpg
-description: A Data Analyst with 2 years experience with proficiency in Excel for data/report automation, SQL for data manipulation and exploration, and PowerBI for data visualization and business intelligence.
-# show_downloads: true
-# google_analytics:
-theme: jekyll-theme-minimal
+description: >-
+  A data analyst with two years' experience in Excel for reporting and automation,
+  SQL for data exploration and manipulation, and Power BI for data visualisation.
+
+remote_theme: jekyll/minima@master
+
+plugins:
+  - jekyll-remote-theme
+
+minima:
+  skin: auto
