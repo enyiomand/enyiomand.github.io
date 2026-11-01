@@ -1,13 +1,18 @@
 title: Enyioma Nwadibia
-logo: data-analyst-logo.jpg
 description: >-
-  A data analyst with two years' experience in Excel for reporting and automation,
-  SQL for data exploration and manipulation, and Power BI for data visualisation.
+  A data analyst with 2 years' experience in Excel for reporting and automation,
+  SQL for data manipulation and exploration, and Power BI for data visualisation.
 
-remote_theme: jekyll/minima@master
+remote_theme: jekyll/minima@d4d779a
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
 
 minima:
   skin: auto
+  social_links:
+    - title: GitHub
+      icon: github
+      url: "https://github.com/enyiomand.github.io"
