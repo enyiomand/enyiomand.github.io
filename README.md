@@ -1,3 +1,11 @@
+## Projects
+
+{% for project in site.projects %}
+- [{{ project.title }}]({{ project.url | relative_url }})
+{% endfor %}
+
+
+
 <!-- # Data Analytics Project Portfolio
 
 # Project 1

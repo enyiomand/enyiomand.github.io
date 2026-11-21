@@ -1,3 +1,9 @@
+---
+title: "Employee Workforce and Salary Analysis with SQL"
+layout: default
+---
+
+
 # Project 2
 
 **Title:** [Employee Workforce and Salary Analysis with SQL]({{ '/project-files/employee-workforce/employee_db.sql' | relative_url }})
