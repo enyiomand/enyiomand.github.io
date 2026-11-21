@@ -1,7 +1,13 @@
+---
+title: "Hospital Operational Efficiency Analysis"
+layout: default
+---
+
+
 # Project 3
 
 
-**Title:** Hospital Operational Efficiency Dashboard
+**Title:** Hospital Operational Efficiency Analysis
 
 **Tools Used:** SQL Server, SQL Server Integration Services (SSIS), Power BI, DAX
 
