@@ -3,10 +3,6 @@ title: "A&E Activity and Four-Hour Performance Dashboard"
 layout: default
 ---
 
-
-
-# Data Analytics Project Portfolio
-
 # Project 1
 
 **Title:** A&E Activity and Four-Hour Performance Dashboard — England, August–September 2026

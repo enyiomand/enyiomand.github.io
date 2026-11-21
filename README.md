@@ -1,4 +1,4 @@
-## Projects
+# Data Analytics Project Portfolio
 
 {% for project in site.projects %}
 {{ project.content | markdownify }}
