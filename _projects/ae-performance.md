@@ -27,6 +27,6 @@ layout: default
 
 **Dashboard Overview:** KPI cards summarize overall activity, four-hour performance and waits over 12 hours. Regional bar charts compare all-department and major A&E performance, while a doughnut chart shows the regional share of attendances. Provider charts highlight the highest attendance volumes, the lowest major A&E four-hour rates and the largest counts of admission waits over 12 hours. Month and region slicers let users filter the dashboard. The results describe the selected two-month period and are not adjusted for differences in provider size, service mix or patient complexity.
 
-[Download the dashboard]({{ '/project-files/ae-performance/AE-by-provider-B5lUR.xlsx' | relative_url }})
+[Download the dashboard](/project-files/ae-performance/AE-by-provider-B5lUR.xlsx)
 
-![A&E Dashboard]({{ '/assets/images/projects/ae-dashboard.png' | relative_url }})
+![A&E dashboard](/assets/images/projects/ae-dashboard.png)

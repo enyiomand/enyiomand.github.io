@@ -1,7 +1,9 @@
 ## Projects
 
 {% for project in site.projects %}
-- [{{ project.title }}]({{ project.url | relative_url }})
+{{ project.content | markdownify }}
+
+<hr>
 {% endfor %}
 
 

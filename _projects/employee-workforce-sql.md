@@ -6,7 +6,8 @@ layout: default
 
 # Project 2
 
-**Title:** [Employee Workforce and Salary Analysis with SQL]({{ '/project-files/employee-workforce/employee_db.sql' | relative_url }})
+**Title:** [Employee Workforce and Salary Analysis with SQL](/project-files/employee-workforce/employee_db.sql)
+
 
 **Tools Used:** Microsoft SQL Server, including joins, aggregate functions, filters, string and date functions, a CTE and window functions.
 
